@@ -2,5 +2,5 @@ Ingredientes
 
 # Cebolla
 # Patatas
-# Sal
+# 5gr Sal
 # Huevos
